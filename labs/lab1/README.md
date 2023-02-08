@@ -8,6 +8,10 @@
 
 ![image2](./images/image2.png)
 
-##Spring Demo App Configured for Docker and Kubernettes
+## Spring Demo App Configured for Docker and Kubernettes
 
-![]()
+![image3](./images/image3.png)
+![image3_1](./images/image3_1.png)
+![image3_2](./images/image3_2.png)
+![image3_3](./images/image3_3.png)
+![image3_4](./images/image3_4.png)
