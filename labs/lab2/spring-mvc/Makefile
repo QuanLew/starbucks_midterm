@@ -8,7 +8,7 @@ run:
 	mvn spring-boot:run
 
 build:
-	mvn packagejar
+	mvn package
 
 run-jar:
 	java -jar target/spring-mvc-1.0.jar
